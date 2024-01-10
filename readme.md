@@ -35,7 +35,7 @@ Matplotlib (if used in visualization)
 ```print(f"Predicted Land-Sea Ratio: {ratio}")```
 
 ## Contributiors
-Ankush Mulkar
+Ankush Mulkar <br>
 Pawan kumar
 
 ## Contact
