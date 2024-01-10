@@ -15,8 +15,7 @@ Matplotlib (if used in visualization)
 
 ## Installation
  #Clone the repository
-```git clone [your-repository-url]
-```
+```git clone [your-repository-url]```
 
 #Navigate to the project directory
 ```cd [your-project-directory]```
