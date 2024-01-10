@@ -24,7 +24,7 @@ Matplotlib (if used in visualization)
 ```pip install opencv-python matplotlib (add other packages as necessary)```
 ## Usage
 #Example of how to use the model
-from your_module import TireLandSeaRatioPredictor
+```from your_module import TireLandSeaRatioPredictor```
 
  #Initialize the predictor
 ```predictor = TireLandSeaRatioPredictor()```
